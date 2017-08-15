@@ -1,0 +1,16 @@
+Luke Yoda 9
+Luke Obi-Wan 8
+Luke R2-D2 7
+Luke Vader 1
+Yoda Luke 6
+Yoda Vader 3
+Yoda R2-D2 6
+Obi-Wan R2-D2 5
+Obi-Wan Luke 7
+Vader R2-D2 1
+Vader Yoda 3
+Vader Luke 5
+R2-D2 Vader 4
+R2-D2 Yoda 8
+R2-D2 Obi-Wan 7
+R2-D2 Luke 9
